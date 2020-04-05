@@ -16,4 +16,6 @@ char = "X"
 
 move(board, index, char)
 
+display_board(board)
+
 
